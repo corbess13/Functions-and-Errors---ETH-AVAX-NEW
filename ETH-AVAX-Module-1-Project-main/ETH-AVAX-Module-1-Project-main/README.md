@@ -37,7 +37,7 @@ You may also make a simple async function (`let getEvenCount = async() => (await
 
 ## Author
 
-CEDoromal (cesdoromal@mymail.mapua.edu.ph)
+Matthew Corbe (mrccorbe@mymail.mapua.edu.ph)
 
 ## License
 
